@@ -1,7 +1,7 @@
 As Promises são um recurso fundamental no JavaScript para lidar com operações assíncronas de forma mais organizada e legível. Elas foram introduzidas para resolver o problema conhecido como "callback hell" (aninhamento excessivo de callbacks) e permitem que o código assíncrono seja escrito de maneira mais sequencial.
 
 Descrição:
-Uma Promise representa um valor que pode estar disponível agora, no futuro ou nunca. Ela tem três estados possíveis: pendente (pending), realizada (fulfilled) ou rejeitada (rejected). Uma Promise é usada para encapsular uma operação assíncrona e fornece métodos para manipular o resultado ou o erro dessa operação.
+A Promise representa um valor que pode estar disponível agora, no futuro ou nunca. Ela tem três estados possíveis: pendente (pending), realizada (fulfilled) ou rejeitada (rejected). Uma Promise é usada para encapsular uma operação assíncrona e fornece métodos para manipular o resultado ou o erro dessa operação.
 
 Sintaxe: 
 
